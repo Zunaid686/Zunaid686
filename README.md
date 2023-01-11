@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zunaid</h1>
-<h3 align="center">A Data Sciene Enthusiasm from India</h3>
+<h3 align="center">A Data Science Enthusiasm from India</h3>
 
 ![image](https://user-images.githubusercontent.com/101803400/211739512-c34c59bc-cc2a-4889-a7b6-b795a510bd4e.png)
 
