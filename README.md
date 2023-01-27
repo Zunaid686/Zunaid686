@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zunaid</h1>
 <h3 align="center">A Data Science Enthusiasm from India</h3>
 
-![image]([https://user-images.githubusercontent.com/101803400/211739512-c34c59bc-cc2a-4889-a7b6-b795a510bd4e.pn](https://miro.medium.com/max/1400/0*CHs47eo87tMPd_-q.gif)g)
+![image]([[https://user-images.githubusercontent.com/101803400/211739512-c34c59bc-cc2a-4889-a7b6-b795a510bd4e.pn](https://user-images.githubusercontent.com/101803400/211739512-c34c59bc-cc2a-4889-a7b6-b795a510bd4e.png)](https://miro.medium.com/max/1400/0*CHs47eo87tMPd_-q.gif)g)
 
 https://user-images.githubusercontent.com/101803400/211739512-c34c59bc-cc2a-4889-a7b6-b795a510bd4e.png
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zunaid686&label=Profile%20views&color=0e75b6&style=flat" alt="zunaid686" /> </p>
