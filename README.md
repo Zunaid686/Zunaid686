@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zunaid</h1>
 <h3 align="center">A Data Science Enthusiasm from India</h3>
 
-![image]([[(https://user-images.githubusercontent.com/101803400/211739512-c34c59bc-cc2a-4889-a7b6-b795a510bd4e.png)]
-
-https://user-images.githubusercontent.com/101803400/211739512-c34c59bc-cc2a-4889-a7b6-b795a510bd4e.png
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zunaid686&label=Profile%20views&color=0e75b6&style=flat" alt="zunaid686" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<img align="right" alt="Coding" width="400" src="(https://www.forbes.com/sites/bernardmarr/2021/10/04/the-5-biggest-data-science-trends-in-2022/?sh=48a9e4e940d3)">
 
 - 🔭 I’m currently working on **Book Recommendation System**
 
